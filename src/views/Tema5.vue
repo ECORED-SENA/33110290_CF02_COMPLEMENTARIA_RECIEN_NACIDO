@@ -30,7 +30,7 @@
         .d-grid.h-100
           .crd.bg11.brad.p-3.px-4(data-aos="fade-down")
             .crd__text
-              p.mb-5 Ahora bien, es importante el seguimiento de los recién nacidos a término con bajo peso al nacer, por el riesgo de presentar problemas de desarrollo durante el seguimiento a los de 2 y 5 años y cuando son adultos. Aunque puede haber poca diferencia en el cociente de inteligencia, el desempeño escolar está afectado debido a desórdenes en la conducta, alteraciones viso espaciales, visos motores y del aprendizaje.
+              p.mb-5 Ahora bien, es importante el seguimiento de los recién nacidos a término con bajo peso al nacer, por el riesgo de presentar problemas de desarrollo durante el seguimiento a los de 2 y 5 años y cuando son adultos. Aunque puede haber poca diferencia en el cociente de inteligencia, el desempeño escolar está afectado debido a desórdenes en la conducta, alteraciones visoespaciales, visosmotores y del aprendizaje.
               img.img-t.fr(src='@/assets/curso/temas/35.svg' alt='')       
 
     p(data-aos="fade-down") Con los recién nacidos de bajo peso al nacer y los niños prematuros se manejan las siguientes definiciones:
@@ -77,7 +77,9 @@
           .col-lg-2.p-0
             img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/39.svg', alt='')            
           .col-lg-10.p-4.j   
-            p(data-aos="fade-down").mb-0 En un estudio en EEUU (1995 - 1999) compararon los RN BPEG como una entidad homogénea con los RN sin BPEG, la mortalidad neonatal, la mortalidad postnatal y la mortalidad infantil fueron significativamente más altas en los RN BPEG. La magnitud de riesgo más grande se observó entre los RN con BPEG que eran prematuros.
+            p(data-aos="fade-down").mb-0 En un estudio en EE.UU. (1995 - 1999) compararon los RN BPEG como una entidad homogénea con los RN sin BPEG, la mortalidad neonatal, la mortalidad postnatal y la mortalidad infantil fueron significativamente más altas en los RN BPEG. La magnitud de riesgo más grande se observó entre los RN con BPEG que eran prematuros.
+
+    img.img-a.img-t.mt-5.img-ani(data-aos="zoom-in")(src='@/assets/curso/temas/img1.svg', alt='')            
 
 </template>
 

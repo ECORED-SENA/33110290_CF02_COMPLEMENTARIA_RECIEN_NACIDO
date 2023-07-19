@@ -190,7 +190,7 @@
           .row.justify-content-start.my-4        
             .col-auto.bg5.p-3.py-2(data-aos="flip-down")
               h5.mb-0 Función Gastrointestinal 
-          p(data-aos="fade-down") La leche materna estimula el crecimiento, el desarrollo y la función óptimos del sistema gastrointestinal e influye en el desarrollo óptimo de la microbiota. La lactancia materna temprana y exclusiva protege el sistema gastrointestinal del bebé de la exposición a sustancias altamente antigénicas, en comparación con la fórmula, la leche materna:  
+          p(data-aos="fade-down") La leche materna estimula el crecimiento, el desarrollo y la función del sistema gastrointestinal e influye en el desarrollo óptimo de la microbiota. La lactancia materna temprana y exclusiva protege el sistema gastrointestinal del bebé de la exposición a sustancias altamente antigénicas, en comparación con la fórmula, la leche materna:  
           .bg6.p-4.brad   
             ul.lista-ul.fa-ul.mb-0 
               li 
@@ -204,13 +204,13 @@
                 p.mb-0 Aumenta la actividad de la lactasa intestinal en bebés prematuros.
               li 
                 i.fas.fa-angle-right
-                p.mb-0 Disminuye la permeabilidad intestinal en las primeras etapas de la vida de los RNPT.
+                p.mb-0 Disminuye la permeabilidad intestinal en las primeras etapas de la vida de los Recién nacidos prematuros (RNPT).
               li 
                 i.fas.fa-angle-right
                 p.mb-0 Reduce el riesgo de desarrollar enterocolitis necrotizante (ECN).
               li.mb-0 
                 i.fas.fa-angle-right
-                p.mb-0 Influye en el desarrollo óptimo de la microbiota. incluyendo la colonización intestinal neonatal.
+                p.mb-0 Influye en el desarrollo óptimo de la microbiota. Incluyendo la colonización intestinal neonatal.
         .col-lg-5.my-3     
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/80.svg', alt='') 
 
@@ -218,7 +218,7 @@
       .col-md-auto.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/81.png', alt='') 
       .col.my-3    
-        p(data-aos="fade-down").mb-0 La mayoría de estos beneficios están relacionados con la protección frente a enfermedades infecciosas. La lactancia materna se asocia con menos infecciones graves que requirieron hospitalización durante el primer año de vida, con una reducción del 4 % en la hospitalización por cada mes adicional de lactancia materna.  
+        p(data-aos="fade-down").mb-0 La mayoría de estos beneficios están relacionados con la protección frente a enfermedades infecciosas. La lactancia materna se asocia con menos infecciones graves que requirieron hospitalización durante el primer año de vida, con una reducción del 4% en la hospitalización por cada mes adicional de lactancia materna.  
           
     .row.justify-content-center.mb-4         
       .col-lg-4.my-3
@@ -340,7 +340,7 @@
                   li 
                     i.fas.fa-angle-right
                     p.mb-0 En caso de gemelos, lo práctico es realizarlo al mismo tiempo.                  
-            .row.justify-content-center.align-items-center(numero="5" titulo="Posición de cuna cruzada")
+            .row.justify-content-center.align-items-center(numero="5" titulo="Posición sentada o caballito")
               .col-12
                 ul.lista-ul.fa-ul 
                   li 
@@ -482,7 +482,7 @@
               ul.lista-ul.fa-ul 
                 li 
                   i.fas.fa-angle-right
-                  p.mb-0 Ayudar a la madre a colocar a su bebé en posición adecuada al pecho empleando los 4 puntos clave en diferentes posiciones. En los materiales se entregan fotos adicionales para reforzar observación de posición. 
+                  p.mb-0 Ayudar a la madre a colocar a su bebé en posición adecuada al pecho empleando los 4 puntos clave en diferentes posiciones.
           tr
             td
               ol.lista-ul.fa-ul 
@@ -555,13 +555,13 @@
         .col-lg-6.my-3
           p Los bebés deben ser evaluados para detectar anquiloglosia (frenillo apretado), que a veces es una causa de un agarre deficiente o una extracción de leche ineficaz. Durante la lactancia, la lengua del lactante se extiende más allá de la cresta alveolar inferior y también debe elevarse hacia el paladar en la boca del lactante cerca de la base del pezón. Los bebés con un frenillo apretado pueden tener un movimiento restringido de la lengua. 
 
-          p Según la anatomía de la madre y el grado de elasticidad del tejido, así como la anatomía del bebé y el grado de movilidad de la lengua, algunos bebés pueden amamantar con éxito sin intervención. En la imagen se observa la clasificación del frenillo lingual en cuatro tipos, dependiendo de la cercanía de este del ápice lingual:                        
+          p Según la anatomía de la madre y el grado de elasticidad del tejido, así como la anatomía del bebé y el grado de movilidad de la lengua, algunos bebés pueden amamantar con éxito sin intervención. En la imagen se observa la clasificación del frenillo lingual en cuatro tipos, dependiendo de la cercanía de este del ápice lingual.                        
 
         .col-lg-5.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/96.png', alt='La imagen representa una comparativa visual de los posibles tipos de anquiloglosia detectados en un bebé.')
       .row.justify-content-center.align-items-center(titulo="Pezones planos o invertidos")
         .col-lg-6.my-3
-          p El reflejo de succión de los bebés se desencadena por la estimulación del paladar. Si el pezón de la madre no sobresale lo suficiente como para estimular el paladar, es posible que el bebé no comience a succionar cuando está en el seno interfiriendo con la capacidad del bebé para agarrarse sin "atrapar" o frotar el pezón y causar dolor en el pezón y/o una transferencia de leche ineficaz y, por lo tanto, no desencadene el reflejo de bajada. 
+          p El reflejo de succión de los bebés se desencadena por la estimulación del paladar. Si el pezón de la madre no sobresale lo suficiente como para estimular el paladar, es posible que el bebé no comience a succionar cuando está en el seno interfiriendo con la capacidad del bebé para agarrarse sin "atrapar" o frotar el pezón y causar dolor en el pezón o una transferencia de leche ineficaz y, por lo tanto, no desencadene el reflejo de bajada. 
           p Para estos bebés lograr un agarre asimétrico es particularmente importante y es posible que sea necesario exagerar el ángulo en el que el bebé se acerca al pecho para lograr un agarre cómodo y efectivo. Las madres pueden intentar “girar" el pezón con los dedos, para inducir que el pezón sobresalga antes de amamantar y como alternativa, pueden usar un dispositivo de succión especial, un extractor de leche manual o un extractor de leche eléctrico.                      
 
         .col-lg-5.my-3
@@ -573,7 +573,7 @@
           .col-lg-2.p-0
             img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/98.svg', alt='')            
           .col-lg-10.p-3.j.ps-4   
-            p(data-aos="fade-down").mb-0 Otro método, en el caso de los pezones planos o invertidos, consiste en utilizar una pezonera de silicona colocada sobre el pezón para agregar algo de "rigidez" y estimulación del paladar, para desencadenar la succión hasta que el bebé aprenda a asociar la succión con estar en el pecho. La pezonera se puede deslizar hacia afuera durante las tomas y/o la madre y el bebé pueden practicar el inicio de las tomas sin la pezonera, una vez que la lactancia esté bien establecida .                                
+            p(data-aos="fade-down").mb-0 Otro método, en el caso de los pezones planos o invertidos, consiste en utilizar una pezonera de silicona colocada sobre el pezón para agregar algo de "rigidez" y estimulación del paladar, para desencadenar la succión hasta que el bebé aprenda a asociar la succión con estar en el pecho. La pezonera se puede deslizar hacia afuera durante las tomas y/o la madre y el bebé pueden practicar el inicio de las tomas sin la pezonera, una vez que la lactancia esté bien establecida.                                
 
 </template>
 

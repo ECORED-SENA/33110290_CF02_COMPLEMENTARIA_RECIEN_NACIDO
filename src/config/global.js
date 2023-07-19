@@ -116,7 +116,7 @@ export default {
   },
   complementario: [
     {
-      tema: '2. Tamizaje neonatal ',
+      tema: 'Tamizaje neonatal ',
       referencia:
         'Ley 1980 de 2019. [Congreso de Colombia]. Por medio de la cual se crea el programa de tamizaje neonatal en Colombia. Julio 26 de 2019.',
       tipo: 'PDF',
@@ -124,7 +124,7 @@ export default {
         'https://www.minsalud.gov.co/Normatividad_Nuevo/Ley%201980%20de%202019.pdf',
     },
     {
-      tema: '2. Tamizaje neonatal ',
+      tema: 'Tamizaje neonatal ',
       referencia:
         'Ministerio de Salud y Protección social. (2020). Resolución por la cual se reglamenta el Programa de Tamizaje Neonatal en Colombia, se adoptan sus Lineamientos Técnicos y Operativos y se dictan otras disposiciones.',
       tipo: 'PDF',
@@ -132,7 +132,7 @@ export default {
         'https://consultorsalud.com/wp-content/uploads/2020/10/Programa-de-Tamizaje-Neonatal-en-Colombia.pdf',
     },
     {
-      tema: '4. Reanimación neonatal  ',
+      tema: 'Reanimación neonatal  ',
       referencia:
         'Rodríguez, A. (2023). <i>Reanimación Neonatal</i>. Escuela Nacional de Enfermería y Obstetricia. ',
       tipo: 'PDF',
@@ -140,7 +140,7 @@ export default {
         'http://www.eneo.unam.mx/rcp3/datos%20fuente/Manual%20de%20Reanimacion%20NEONATAL.pdf',
     },
     {
-      tema: '5. Atención del recién nacido ',
+      tema: 'Atención del recién nacido ',
       referencia:
         'Resolución 3280 de 2018. [Ministerio de Salud y Protección Social]. Por medio de la cual se adoptan los lineamientos técnicos y operativos de la Ruta Integral de Atención para la Promoción y Mantenimiento de la Salud y la Ruta Integral de Atención en Salud para la Población Materno Perinatal y se establecen las directrices para su operación. Agosto 2 de 2018.',
       tipo: 'PDF',

@@ -31,13 +31,13 @@
             ol.lista-ul.fa-ul 
               li
                 span.text-bold 1.
-                p.mb-0 Posicionar al RN sin hiperextender o hiperflexionar el cuello.
+                p.mb-0 Posicionar al recién nacido (RN) sin hiperextender o hiperflexionar el cuello.
               li
                 span.text-bold 2.
                 p.mb-0 Limpiar las secreciones de la vía aérea.
               li
                 span.text-bold 3.
-                p.mb-0 Secar del recién nacido.  
+                p.mb-0 Secar al recién nacido.  
               li
                 span.text-bold 4.
                 p.mb-0 Evaluar la respiración, el llanto y tono muscular.            
@@ -107,7 +107,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Si el niño se encuentra sano, se recomienda no separarlo de la madre durante los primeros 60 minutos de vida y postergar la realización del examen físico, las profilaxis y todo el proceso de adaptación. En el caso de un nacimiento por cesárea, se debe presentar el RN a la madre y mientras termina el procedimiento quirúrgico de la madre, se pueden realizar las demás medidas de la adaptación.<br><br>Se debe promover el contacto piel a piel y el inicio de la lactancia materna lo más rápido posible. 
 
-    p(data-aos="fade-down").mb-5 La #[b.bgt1 lactancia materna] debe iniciarse durante el contacto piel a piel si la madre puede hacerlo. #[b.bgt1 Se recomienda iniciar en la primera hora de vida del RN.] La OMS indica no iniciar o suspender la lactancia materna en los siguientes casos, de acuerdo con NIH (2019):
+    p(data-aos="fade-down").mb-5 La #[b.bgt1 lactancia materna] debe iniciarse durante el contacto piel a piel si la madre puede hacerlo. #[b.bgt1 Se recomienda iniciar en la primera hora de vida del RN.] La OMS indica no iniciar o suspender la lactancia materna en los siguientes casos, de acuerdo con National Institutes of Health (NIH) (2019):
     .bg4
       .row.justify-content-center.mb-5
         .col-lg-7.p-0
@@ -135,7 +135,7 @@
           LineaTiempoD.color-primario
             .row.justify-content-center.align-items-center(numero="1" titulo="Cabeza")
               .col-12
-                p Se debe evaluar la presencia de caput succedaneum cabelludo (edema del cuero cabelludo, por lo tanto, puede sobrepasar las cisuras de los huesos del cráneo) o de cefalohematomas (hemorragia subperióstica, que está limitada a uno de los huesos del cráneo)         
+                p Se debe evaluar la presencia de #[i caput succedaneum cabelludo] (edema del cuero cabelludo, por lo tanto, puede sobrepasar las cisuras de los huesos del cráneo) o de #[i cefalohematomas] (hemorragia subperióstica, que está limitada a uno de los huesos del cráneo).        
             .row.justify-content-center.align-items-center(numero="2" titulo="Cara")
               .col-12
                 p Evaluar el tamaño de las fontanelas anterior y posterior, evaluar la simetría facial, la posición de las orejas, la comisura palpebral, realizar evaluación ocular incluyendo el rojo retiniano y evaluar que el paladar esté íntegro.  
@@ -371,7 +371,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4(data-aos="fade-down") Resolución 3280 de 2018
-                  p(data-aos="fade-down").mb-0 Para conocer más sobre los cuidados del recién nacido durante las primeras 24 horas de vida, consultar la Resolución 3280 de 2018, Capitulo del Ministerio de Salud y Protección Social en la página 304. 
+                  p(data-aos="fade-down").mb-0 Para conocer más sobre los cuidados del recién nacido durante las primeras 24 horas de vida, consultar la Resolución 3280 de 2018, Capítulo del Ministerio de Salud y Protección Social en la página 304. 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-3280-de-2018.pdf" target="_blank")
                     span Ver enlace
