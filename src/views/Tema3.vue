@@ -348,7 +348,7 @@
                     p.mb-0 Es una posición poco frecuente, pero puede ser muy útil cuando el bebé presenta dificultades en el agarre y bebés con fisura palatina.
                   li 
                     i.fas.fa-angle-right
-                    p.mb-0 Niños hipotónicos con succión débil (Síndrome de Down, prematuros)
+                    p.mb-0 Niños hipotónicos con succión débil (Síndrome de Down, prematuros).
                   li 
                     i.fas.fa-angle-right
                     p.mb-0 Niños con reflujo gastroesofágico.
