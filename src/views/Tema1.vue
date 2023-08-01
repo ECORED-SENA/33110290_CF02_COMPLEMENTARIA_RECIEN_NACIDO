@@ -142,7 +142,7 @@
             .row.justify-content-center.align-items-center(numero="3" titulo="Cuello")
               .col-12
                 p Evaluar la movilidad del cuello.
-            .row.justify-content-center.align-items-center(numero="4" titulo="Torax")
+            .row.justify-content-center.align-items-center(numero="4" titulo="Tórax")
               .col-12
                 p Evaluar las clavículas, buscando si hay fracturas, evaluar la adaptación cardiopulmonar a la vida extrauterina, la presencia de signos de dificultad respiratoria y la simetría de los pulsos entre las extremidades superiores e inferiores.
             .row.justify-content-center.align-items-center(numero="5" titulo="Piel")
@@ -150,7 +150,7 @@
                 p Evaluar el tinte ictérico en piel y mucosas. La presencia de tinte ictérico antes de las 24 horas de vida siempre es patológica y requiere estudio y manejo inmediato para evitar complicaciones y secuelas.
             .row.justify-content-center.align-items-center(numero="6" titulo="Abdomen")
               .col-12
-                p Se evalúa la pared abdominal, si hay gastrosquisis o onfaloceles, masas abdominales o megalias. Se debe evaluar la permeabilidad esofágica.
+                p Se evalúa la pared abdominal, si hay gastrosquisis u onfaloceles, masas abdominales o megalias. Se debe evaluar la permeabilidad esofágica.
             .row.justify-content-center.align-items-center(numero="7" titulo="Cadera")
               .col-12
                 p Se evalúa la estabilidad de la cadera, mediante la búsqueda de signos como Barlow u Ortolani.      
@@ -300,7 +300,7 @@
             p.mb-0 #[b.t3 Profilaxis ocular:] se recomienda realizar con solución oftálmica de Povidona yodada al 2,5% o al 5% (según disponibilidad), una gota en cada ojo en dosis única. Si no hay disponibilidad de Povidona iodada se puede utilizar pomada de Eritromicina al 0,5% o tetraciclina al 1%
           li 
             i.fas.fa-angle-right.t3
-            p.mb-0 #[b.t3 Profilaxis de la enfermedad hemorrágica del recién nacido:] se indica aplicación de Vitamina K 1 mg IM en la región anterior del muslo en dosis única. Para los RN con peso <1.500 gramos se indica aplicar  0,5 mg IM .   
+            p.mb-0 #[b.t3 Profilaxis de la enfermedad hemorrágica del recién nacido:] se indica aplicación de Vitamina K 1 mg IM en la región anterior del muslo en dosis única. Para los RN con peso <1.500 gramos se indica aplicar  0,5 mg IM.   
         .row.justify-content-center.align-items-center                  
           .col-md-auto.my-2
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/28.png', alt='') 

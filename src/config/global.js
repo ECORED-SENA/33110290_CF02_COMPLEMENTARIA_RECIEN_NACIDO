@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Atenciones al Recién Nacido en la RIAMP',
+    componenteFormativo: 'Atenciones al recién nacido en la RIAMP',
     descripcionCurso:
       'La preparación de la vida extrauterina y la adecuada adaptación neonatal requiere que, durante el proceso de cambios fisiológicos, el recién nacido tenga los cuidados no solo necesarios sino además óptimos, encontrados en las intervenciones orientadas desde la Ruta Integral de Atención Materno Perinatal que define las intervenciones para la niña y el niño recién nacido.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),

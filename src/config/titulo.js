@@ -1,1 +1,1 @@
-module.exports = 'Atenciones al Recién Nacido en la RIAMP'
+module.exports = 'Atenciones al recién nacido en la RIAMP'

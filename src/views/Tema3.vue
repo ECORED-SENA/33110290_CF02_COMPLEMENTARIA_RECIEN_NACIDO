@@ -377,7 +377,7 @@
                     p.mb-0 La sonda se fija al pecho de la madre con cinta adhesiva, colocando el extremo en la punta del pezón cuando el bebé va a mamar.
                   li 
                     i.fas.fa-angle-right
-                    p.mb-0 Al succionar obtiene leche del relactador y del pecho                           
+                    p.mb-0 Al succionar obtiene leche del relactador y del pecho.                           
             .col-lg-4.d-none.d-lg-block
               img.img-t.img-r(data-aos="zoom-in")(src='@/assets/curso/temas/91.png')   
             .col-lg-4.d-block.d-lg-none
@@ -424,7 +424,7 @@
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Tabla 3.
-      span Tabla consejería lactancia materna            
+      span Consejería lactancia materna            
     .tabla-a.color-acento-contenido(data-aos="fade-left") 
       table
         tbody.bgw
@@ -473,7 +473,7 @@
               ol.lista-ul.fa-ul 
                 li
                   span.text-bold 4.
-                  p.mb-0 Ayudar a la madre para que el bebé logre un buen agarre al pecho.              
+                  p.mb-0 Ayudar a la madre con la posición del bebé al pecho.             
             td
               ul.lista-ul.fa-ul 
                 li 
