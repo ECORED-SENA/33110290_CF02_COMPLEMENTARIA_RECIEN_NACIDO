@@ -79,8 +79,6 @@
           .col-lg-10.p-4.j   
             p(data-aos="fade-down").mb-0 En un estudio en EE.UU. (1995 - 1999) compararon los RN BPEG como una entidad homogénea con los RN sin BPEG, la mortalidad neonatal, la mortalidad postnatal y la mortalidad infantil fueron significativamente más altas en los RN BPEG. La magnitud de riesgo más grande se observó entre los RN con BPEG que eran prematuros.
 
-    img.img-a.img-t.mt-5.img-ani(data-aos="zoom-in")(src='@/assets/curso/temas/img1.svg', alt='')            
-
 </template>
 
 <script>
