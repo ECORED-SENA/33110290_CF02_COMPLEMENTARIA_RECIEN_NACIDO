@@ -204,7 +204,7 @@
                 p.mb-0 Aumenta la actividad de la lactasa intestinal en bebés prematuros.
               li 
                 i.fas.fa-angle-right
-                p.mb-0 Disminuye la permeabilidad intestinal en las primeras etapas de la vida de los Recién nacidos prematuros (RNPT).
+                p.mb-0 Disminuye la permeabilidad intestinal en las primeras etapas de la vida de los recién nacidos prematuros (RNPT).
               li 
                 i.fas.fa-angle-right
                 p.mb-0 Reduce el riesgo de desarrollar enterocolitis necrotizante (ECN).
